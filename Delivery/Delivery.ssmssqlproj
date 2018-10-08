@@ -91,6 +91,12 @@
           <AssociatedConnUserName />
           <FullPath>!! PROD !!.sql</FullPath>
         </FileNode>
+        <FileNode Name="0000.TestGit.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BSCCSQ07:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BSCCSQ07</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0000.TestGit.sql</FullPath>
+        </FileNode>
         <FileNode Name="01. ETL.pLoadDeliveryPlanFromRN.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BSCCAP108:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BSCCAP108</AssociatedConnSrvName>
@@ -667,8 +673,8 @@
       <Items />
     </LogicalFolder>
   </Items>
-  <SccProjectName>$/SQL Script/Delivery</SccProjectName>
+  <SccProjectName />
   <SccAuxPath />
-  <SccLocalPath>..</SccLocalPath>
-  <SccProvider>MSSCCI:Team Foundation Server MSSCCI Provider</SccProvider>
+  <SccLocalPath />
+  <SccProvider />
 </SqlWorkbenchSqlProject>
